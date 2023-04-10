@@ -1,6 +1,8 @@
 title: Sanjay Azad
 description: Knowledge sharing pages
-theme: just-the-docs
+remote_theme: pmarsceill/just-the-docs
+
+permalink: pretty
 
 url: https://sanjay-azad.github.io/en
 

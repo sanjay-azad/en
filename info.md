@@ -1,3 +1,10 @@
+---
+title: Template
+layout: default
+nav_exclude: true
+description: template
+---
+
 # just-the-docs-template
 
 This is a *bare-minimum* template to create a [Jekyll] site that:

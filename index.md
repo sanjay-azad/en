@@ -3,14 +3,16 @@ title: Home
 layout: default
 nav_order: 1
 description: Homepage of blogs from Sanjay Azad
+
+{{$age := now.Sub ({{ 'now' | date: "%Y" }} 1994)}}
 ---
 
 <!-- {{ $diff := now.Sub (time .Params.birthDate) }}
 {{ $years := div (div $diff.Hours 24) 365 }} -->
 
-{{$age := now.Sub ({{ 'now' | date: "%Y" }} 1994)}}
 
-*Hello,* this is Sanjay Azad. A {{ math.Floor $age }} years old post-graduate from [IIT Bombay], I did my engineering (B.Tech + M.Tech) from the [Department of Electrical Engineeering] with specialization in Communication and Signal processing.
+
+Hello, this is *Sanjay Azad*. A {{ math.Floor $age }} years old post-graduate from [IIT Bombay], I did my engineering (B.Tech + M.Tech) from the [Department of Electrical Engineeering] with specialization in Communication and Signal processing.
 
 
 On technical side, I got exposure to [MATLAB] for computational processing and then moved on to [Python] for data analytics. And that's how I started a journey in AI and Machine Learning. I have 6+ years of experience in quantitative analytics, data science and development.

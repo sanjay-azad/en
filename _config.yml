@@ -1,6 +1,6 @@
 title: Sanjay Azad
 description: Knowledge sharing pages
-remote_theme: pmarsceill/just-the-docs
+# remote_theme: pmarsceill/just-the-docs
 
 permalink: pretty
 
@@ -12,10 +12,14 @@ aux_links: # remove if you don't want this link to appear on your pages
 
 
 # Set a path/url to a logo that will be displayed instead of the title
-logo: "/assets/images/logo.png"
+# logo: "/assets/images/logo.png"
 
-# exclude:
-#    .vscode
+# Set a path/url to a favicon that will be displayed by the browser
+favicon_ico: "/assets/images/favicon.png"
+
+exclude:
+   - Gemfile
+   - info.md
 
 # For copy button on code
 enable_copy_code_button: true

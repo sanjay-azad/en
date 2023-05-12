@@ -1,6 +1,7 @@
 title: Sanjay Azad
 description: Knowledge sharing pages
-remote_theme: pmarsceill/just-the-docs
+# remote_theme: pmarsceill/just-the-docs
+theme: just-the-docs
 
 permalink: pretty
 
@@ -17,9 +18,9 @@ aux_links: # remove if you don't want this link to appear on your pages
 # Set a path/url to a favicon that will be displayed by the browser
 favicon_ico: "/assets/images/favicon.png"
 
-exclude:
-   - Gemfile
-   - info.md
+# exclude:
+#    - Gemfile
+#    - info.md
 
 # For copy button on code
 enable_copy_code_button: true
@@ -28,7 +29,7 @@ enable_copy_code_button: true
 aux_links_new_tab: true
 
 nav_external_links:
-  - title: Connect to me on LinkedIn
+  - title: Connect with me on LinkedIn
     url: https://linkedin.com/in/sanjay-azad-1a368187
 
 

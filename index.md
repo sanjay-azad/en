@@ -14,12 +14,13 @@ description: Homepage of blogs from Sanjay Azad
 -->
 
 
+### Hello, 
 
-Hello, this is *Sanjay Azad* - a 28 years old having expertise in machine learning, quantitative analytics and signal processing.
-I have completed post-graduation (B.Tech + M.Tech) from [IIT Bombay] from the [Department of Electrical Engineeering] with specialization in Communication and Signal processing.
+This is *Sanjay Azad* - a 28 years old having expertise in machine learning, quantitative analytics and signal processing.
+I have completed post-graduation (B.Tech + M.Tech) from [IIT Bombay] in 2016, from the [Department of Electrical Engineeering] with specialization in Communication and Signal processing.
 
 
-On technical side, I got exposure to [MATLAB] for computational processing, and [Python] for data science. I now have 6+ years of experience in quantitative analytics, data science and application development.
+On technical side, I got exposure to [MATLAB] for computational processing, and [Python] for data science. I now have 6+ years of professional experience in quantitative analytics, data science and application development.
 
 
 I am passionate about nature, so have developed gardening as a hobby. Except that I am vocal for sustainable development in the sense that resources have to be used skillfully.
@@ -31,7 +32,7 @@ I live in India, and have visited several of its cities across states. I believe
 Global warming[^1] is a big threat - not just in terms of rising water levels but also the amount of heat India is facing in past couple of years. This poses a tremendous opportunity to capitalise on the excess energy we are receiving from the sun.
 
 
-Indian culture and history has been a source of fascination to me. Its traditional and ancient knowledge system woven into the fabric of mythology and religious philosophies are astounding. They can prove to be a disruptive technology for human cognition in today's world of chaos and sufferings.
+Indian culture and history has been a source of fascination to me. Its traditional and ancient knowledge system woven into the fabric of mythology and religious philosophies (spirituality) are astounding. They can prove to be a disruptive technology for human cognition in today's world of chaos and sufferings.
 
 
 I am a student of science and is a proud critical thinker and seeker of knowledge.

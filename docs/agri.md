@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Agriculture and Nature
+title: Nature and Agriculture
 nav_order: 4
 ---

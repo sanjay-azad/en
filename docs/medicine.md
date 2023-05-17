@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Some proven medications
+title: Some Medications
 nav_order: 5
 ---

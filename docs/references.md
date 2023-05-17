@@ -1,21 +1,21 @@
 ---
 layout: default
-title: Some useful links
-nav_order: 6
+title: Useful Links
+nav_order: 7
 ---
 
 Below are some of the useful links that I had bookmarked. So putting them here to make them accessible from everywhere.
 
-    - [Zerodha varsity]
-    - [Doclime]: Answers from PDFs
-    - [MLOps]: Workflow
-    - [ML]: System design
-    - [Amazon]: Interview
-    - [Indian philosophy]
-    - [NLP Sanskrit]
-    - [Ashtavakra Gita]
-    - [Gita]
-    - [Model Evaluation]
+- [Zerodha varsity]
+- [Doclime]: Answers from PDFs
+- [MLOps]: Workflow
+- [ML]: System design
+- [Amazon]: Interview
+- [Indian philosophy]
+- [NLP Sanskrit]
+- [Ashtavakra Gita]
+- [Gita]
+- [Model Evaluation]
 
 
 ---

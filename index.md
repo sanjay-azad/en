@@ -16,20 +16,15 @@ description: Homepage of blogs from Sanjay Azad
 
 ### Hello, 
 
-This is *Sanjay Azad* - a 28 years old having expertise in machine learning, quantitative analytics and signal processing.
+This is *Sanjay Azad* - a 28 years old, having expertise in machine learning, quantitative analytics and signal processing.
 I have completed post-graduation (B.Tech + M.Tech) from [IIT Bombay] in 2016, from the [Department of Electrical Engineeering] with specialization in Communication and Signal processing.
 
 
-On technical side, I got exposure to [MATLAB] for computational processing, and [Python] for data science. I now have 6+ years of professional experience in quantitative analytics, data science and application development.
+I now have 6+ years of professional experience in quantitative analytics, data science and application development. I got exposure to [MATLAB] in IIT for project works, and then [Python] & databases for professional journey in data science. I have worked on all the three verticals of MLOps - data engineering, model management & model governnce.  
 
 
-I am passionate about nature, so have developed gardening as a hobby. Except that I am vocal for sustainable development in the sense that resources have to be used skillfully.
-
-
+I am passionate about nature and a vocal for sustainable development - in the sense that resources have to be used skillfully and efficiently.
 I live in India, and have visited several of its cities across states. I believe in connecting with our roots and that we have to strengthen our villages, improvise on agriculture - in sustainability as well as profitability, and keep a check on water and air pollution.
-
-
-Global warming[^1] is a big threat - not just in terms of rising water levels but also the amount of heat India is facing in past couple of years. This poses a tremendous opportunity to capitalise on the excess energy we are receiving from the sun.
 
 
 Indian culture and history has been a source of fascination to me. Its traditional and ancient knowledge system woven into the fabric of mythology and religious philosophies (spirituality) are astounding. They can prove to be a disruptive technology for human cognition in today's world of chaos and sufferings.
@@ -49,8 +44,6 @@ The information, facts and theories that I have acquired over my life period - t
 
 
 ----
-
-[^1]: [Global warming is a big threat](https://www.nrdc.org/stories/global-warming-101).
 
 [IIT Bombay]: https://www.iitb.ac.in/
 [Department of Electrical Engineeering]: https://www.ee.iitb.ac.in/

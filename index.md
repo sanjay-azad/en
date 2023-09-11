@@ -6,34 +6,22 @@ description: Homepage of blogs from Sanjay Azad
 
 ---
 
-<!-- {{ $diff := now.Sub (time .Params.birthDate) }}
-{{ $years := div (div $diff.Hours 24) 365 }} 
-{{$age := now.Sub ({{ 'now' | date: "%Y" }} 1994)}}
-{{ math.Floor $age }}
+# About Me 
 
--->
+Hello, this is *Sanjay Azad* - a 29 years old, having expertise in Machine learning, Artificial Intelligence, Analytics & Signal processing.
+I completed my post-graduation (B.Tech + M.Tech) from [IIT Bombay] in 2016, from the [Department of Electrical Engineeering] with specialization in Communication and Signal processing.
 
+I have 7+ years of professional experience in Consulting, Data Science, Artificial Intelligence, and Application Development. I have worked on all the three verticals of MLOps - data engineering, model building & model deployment. I have done a good amount of research in explainable & responsible AI. Nowadays, exploring the capabilities of Generative AI, and Privacy Enhancing Technologies (PETs). Majorly, I have worked into finance, trading, & insurance sectors.
 
-### Hello, 
+I am passionate about nature and a vocal for sustainable development - in the sense that our resources have to be used skillfully and efficiently.
+I live in India, and have visited several of its cities, and religious & historical sites. The holy city of [Varanasi] is where I spent the whole of my childhood & schooling.
 
-This is *Sanjay Azad* - a 28 years old, having expertise in machine learning, quantitative analytics and signal processing.
-I have completed post-graduation (B.Tech + M.Tech) from [IIT Bombay] in 2016, from the [Department of Electrical Engineeering] with specialization in Communication and Signal processing.
+I have appeared for the [UPSC] civil service exams as well - and the learning it provided in terms of understanding Indian polity, history, and society has been astounding.
 
+{: .note }
+I am a student of science and a proud critical thinker and seeker of knowledge.
 
-I now have 6+ years of professional experience in quantitative analytics, data science and application development. I got exposure to [MATLAB] in IIT for project works, and then [Python] & databases for professional journey in data science. I have worked on all the three verticals of MLOps - data engineering, model management & model governnce.  
-
-
-I am passionate about nature and a vocal for sustainable development - in the sense that resources have to be used skillfully and efficiently.
-I live in India, and have visited several of its cities across states. I believe in connecting with our roots and that we have to strengthen our villages, improvise on agriculture - in sustainability as well as profitability, and keep a check on water and air pollution.
-
-
-Indian culture and history has been a source of fascination to me. Its traditional and ancient knowledge system woven into the fabric of mythology and religious philosophies (spirituality) are astounding. They can prove to be a disruptive technology for human cognition in today's world of chaos and sufferings.
-
-
-I am a student of science and is a proud critical thinker and seeker of knowledge.
-
-
-The information, facts and theories that I have acquired over my life period - those are my assets, and I am willing to disseminate them over here to a larger audience. The blogs are going to be from diverse background, but mostly will have following flavours:
+The information, facts and theories that I have acquired over my life - those are my assets, and I am willing to disseminate them over here to a larger audience. The blogs are going to be from a diverse background, but mostly will have the following flavours:
 
 - Finance
 - Machine learning
@@ -43,10 +31,8 @@ The information, facts and theories that I have acquired over my life period - t
 - Indian culture and philosophies
 
 
-----
-
 [IIT Bombay]: https://www.iitb.ac.in/
 [Department of Electrical Engineeering]: https://www.ee.iitb.ac.in/
-[MATLAB]: https://www.mathworks.com/products/matlab.html
-[Python]: https://www.python.org/
+[Varanasi]: https://en.wikipedia.org/wiki/Varanasi
+[UPSC]: https://upsc.gov.in/
 

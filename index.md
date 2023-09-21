@@ -18,7 +18,7 @@ I live in India, and have visited several of its cities, and religious & histori
 
 I have appeared for the [UPSC] civil service exams as well - and the learning it provided in terms of understanding Indian polity, history, and society has been astounding.
 
-{: .note }
+{: .note}
 I am a student of science and a proud critical thinker and seeker of knowledge.
 
 The information, facts and theories that I have acquired over my life - those are my assets, and I am willing to disseminate them over here to a larger audience. The blogs are going to be from a diverse background, but mostly will have the following flavours:

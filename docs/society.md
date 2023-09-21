@@ -8,4 +8,4 @@ Humans are social animals, and we are driven by beliefs and stories. We forge co
 
 We have to identify that the hatred and affection are the two faces of the same coin. The coin is our sense of strong identification with our beliefs.
 
-The whole polity, economy and religions are being led by such belifs. We think democracy is the best form of government we have devised. But at a time, when people themselves don't know how their belief system is being manipulated - relying on their instinct and judgement is a suicidal system.
+The whole polity, economy and religions are being led by such beliefs. We think democracy is the best form of government we have devised. But at a time, when people themselves don't know how their belief system is being manipulated - relying on their instinct and judgement is a suicidal system.

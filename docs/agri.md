@@ -4,6 +4,7 @@ title: Nature and Agriculture
 nav_order: 4
 ---
 
+# Nature and Agriculture
 
 I believe in connecting with our roots and that we have to strengthen our villages, improvise on agriculture - in sustainability as well as profitability, and keep a check on water and air pollution.
 

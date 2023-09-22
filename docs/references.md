@@ -4,6 +4,8 @@ title: Useful Links
 nav_order: 7
 ---
 
+# References
+
 Below are some of the useful links that I had bookmarked. So putting them here to make them accessible from everywhere.
 
 - [Zerodha varsity]

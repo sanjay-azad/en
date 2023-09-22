@@ -4,7 +4,7 @@ title: Artificial Intelligence
 nav_order: 2
 ---
 
-## Introduction
+# Introduction
 Artificial Intelligence is an umbrella term. It includes different *scientific* ways through which we obtain an intelligent system outside the natural *life* systems.
 Here, we try to put in machines some sort of reasoning, decision making and cognition.
 
@@ -23,7 +23,7 @@ So, the scope of science is ever increasing as we encapsulate & systemetize more
 There is intelligence in both of them - life & science. It's just that science is more structured, definite and limited. There are a few measures of intelligence - understanding patterns, decision making, language understanding, will-power and emotions.
 Emotions and belief-framing are the least understood aspects of intelligence as per science - as there is a lot of variability.
 
-Artificially-intelligent agent are those systems that cross certain threshold, in human perception, at the above mentioned measures of intelligence.
+Artificially-intelligent agent are those scientific systems that cross certain threshold at the above mentioned measures of intelligence (in human perception).
 Machine learning and deep learning (neural networks) are some of the ways to have an AI agent. Others include robotics, control systems, game engines, material technology, etc.
 
 Below is a concise explanation of how those lesser known, other facets of AI exist:
@@ -59,3 +59,5 @@ Goodness or badness of the AI is not a topic to be discussed. The point of conte
 When judging the AI, it is very much important now that we assess ourselves first. A crash course on 'freedom from the known' is needed to the humans to grasp what AI is and how it is gaining momentum. We don't know our own learning process - and want to discard AI as just another science, fraught with errors. The important point is - do we know how errorneous we ourselves are?
 
 AI systems and use cases are already getting flooded in the market - few by innovators, and few by economic forces. Another form of push to AI comes from spectators. Because there is a hype, there is investment - leading to more and more spectacular leaps and advancements.
+
+If we want to train AI to do what humans want, we need to study humans.

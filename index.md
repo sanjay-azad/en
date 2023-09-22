@@ -14,14 +14,16 @@ I completed my post-graduation (B.Tech + M.Tech) from [IIT Bombay] in 2016, from
 I have 7+ years of professional experience in Consulting, Data Science, Artificial Intelligence, and Application Development. I have worked on all the three verticals of MLOps - data engineering, model building & model deployment. I have done a good amount of research in explainable & responsible AI. Nowadays, exploring the capabilities of Generative AI, and Privacy Enhancing Technologies (PETs). Majorly, I have worked into finance, trading, & insurance sectors.
 
 I am passionate about nature and a vocal for sustainable development - in the sense that our resources have to be used skillfully and efficiently.
-I live in India, and have visited several of its cities, and religious & historical sites. The holy city of [Varanasi] is where I spent the whole of my childhood & schooling.
+- "Compassion, Humility, and Frugality - is the way to live."
 
-I have appeared for the [UPSC] civil service exams as well - and the learning it provided in terms of understanding Indian polity, history, and society has been astounding.
+I live in India, and have visited several of its cities, and religious & historical sites. The holy city of [Varanasi] is where I have spent the whole of my childhood & schooling.
 
-{: .note}
-I am a student of science and a proud critical thinker and seeker of knowledge.
+I have appeared for the [UPSC] civil service exams as well - and the learning it provided in terms of understanding Indian polity, history, and society has been wholesome & fulfilling.
 
-The information, facts and theories that I have acquired over my life - those are my assets, and I am willing to disseminate them over here to a larger audience. The blogs are going to be from a diverse background, but mostly will have the following flavours:
+{: .highlight }
+I am a student of science and a proud critical thinker and a seeker of knowledge.
+
+The information, facts and theories that I have acquired over my life, are my assets. I am willing to disseminate them over here to a larger audience. The blogs are going to be from a diverse background, but mostly will have the following flavours:
 
 - Finance
 - Machine learning

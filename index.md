@@ -14,7 +14,7 @@ I completed my post-graduation (B.Tech + M.Tech) from [IIT Bombay] in 2016, from
 I have 7+ years of professional experience in Consulting, Data Science, Artificial Intelligence, and Application Development. I have worked on all the three verticals of MLOps - data engineering, model building & model deployment. I have done a good amount of research in explainable & responsible AI. Nowadays, exploring the capabilities of Generative AI, and Privacy Enhancing Technologies (PETs). Majorly, I have worked into finance, trading, & insurance sectors.
 
 I am passionate about nature and a vocal for sustainable development - in the sense that our resources have to be used skillfully and efficiently.
-- "Compassion, Humility, and Frugality - is the way to live."
+- Compassion, Humility, and Frugality - keeping and polishing these three jewels is the way to live.
 
 I live in India, and have visited several of its cities, and religious & historical sites. The holy city of [Varanasi] is where I have spent the whole of my childhood & schooling.
 

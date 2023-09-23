@@ -5,6 +5,7 @@ nav_order: 2
 ---
 
 # Introduction
+
 Artificial Intelligence is an umbrella term. It includes different *scientific* ways through which we obtain an intelligent system outside the natural *life* systems.
 Here, we try to put in machines some sort of reasoning, decision making and cognition.
 
@@ -14,12 +15,14 @@ To understand the AI, it is important to talk a bit on the terms above - Life & 
 
 **Science:** Anything which is systematic and objective comes under science. All sorts of knowledge - true or untrue, if it has been derived by following a systematic procedure and if it is objective in nature, ie, can be imparted through teaching with zero variability - then this knowledge is scientific. There is a lot of doubt around the utility and contribution of science - mostly because its definition is not clear to the public, and partly because it has been used by the human greed to exploit resources. 
 
+{: .note }
 Mathematics is science, counting system is science, language is science, psychology is science - as they are based on conventions or theories that are objective (or we have made them so).
 
-As soon as there is a subjectivity in a knowledge, it goes outside science, eg, spirituality - which is based on personal experience, and there is no way to reporduce the exact same result on two diffeernt persons (at least for now). The belief, in India, that if a cat crosses our way - it results in a bad journey, is not scientific and is, in fact, a superstition. Why? Because this fact is not reproducible. We are not downgrading it from kowledge. It remains a knowledge as somebody or a group of people (let's say 100 out of 1000) might have experienced this correlation. But, that does not make it a scientific fact. So is the case of spiritual experiences, beliefs and encounters. 
+As soon as there is a subjectivity in a knowledge, it goes outside science, eg, spirituality - which is based on personal experience, and there is no way to reporduce the exact same result on two diffeernt persons (at least for now). The belief, in India, that if a cat crosses our way - it results in a bad journey, is not scientific and is, in fact, a superstition. Why? Because this fact is not reproducible. We are not downgrading it from kowledge. It remains a knowledge as somebody or a group of people (let's say 100 out of 1000) might have experienced this correlation. But, that does not make it a scientific fact. So is the case of personal experiences, beliefs and encounters. 
 
-So, the scope of science is ever increasing as we encapsulate & systemetize more and more of our *life* knowledge, and make it objective (worthy to be imparted with zero variability). Thus, we accept that the Science is always limited - purposefully, as it does not accept any subjectivity. Also, it need not be error free. The catch here is that, while relying on science - we are relying on our sense organs, which are not fool-proof.
+So, the scope of science is ever increasing as we encapsulate & systemetize more and more of our *life* knowledge, and make it objective (worthy to be imparted with zero variability). Thus, we accept that the Science is always limited - purposefully, as it does not accept any subjectivity. Also, it need not be error free. The catch here is that - while relying on the objectivity of science, we are relying on our sense organs, which are not fool-proof.
 
+{: .highlight }
 There is intelligence in both of them - life & science. It's just that science is more structured, definite and limited. There are a few measures of intelligence - understanding patterns, decision making, language understanding, will-power and emotions.
 Emotions and belief-framing are the least understood aspects of intelligence as per science - as there is a lot of variability.
 
@@ -39,25 +42,41 @@ The few scenarios that we make available to the machine are called training data
 If the training data are labelled from the real world (like a cat image - along with label: *Cat*), the learning that happens is called **Supervised learning**. The machine then figures out the labels for the unobserved test data by itself. Generally, we do three sets of tasks here - *Regression, Classification & Ranking*.
 Similarly, if we train it without the labels to make some associations among the given scenarios (or training data) - like *Segment / Cluster* them, and do the same with any unobserved scenario then it is called an **Unsupervised learning**.
 
-There are several different mathematical models or algorithms for these two types of learnings. There is a third type of learning called **Reinforcement learning**, where we create an agent that learns by interacting with an environment, receiving rewards or penalties based on its actions. 
+There are several different mathematical models or algorithms for these two types of learnings. 
+
+{: .new }
+There is a third type of learning called **Reinforcement learning**, where we create an agent that learns by interacting with an environment, receiving rewards or penalties based on its actions. 
 
 Below are few terms that need our further attention:
 - Natural Language Processing (NLP): Process to make a system or agent that can understand and generate human language, enabling it to interact with users through text or speech.
 - Computer Vision: Image processing to make system or agents capable of processing and interpreting visual information, allowing them to understand and interact with images and videos.
 - Neural Networks: Models designed to mimic brain functionality through neurons, also called deep learning models, such as convolutional neural networks (CNNs) for vision tasks and recurrent neural networks (RNNs) for sequential data, to build intelligent agents or systems.
 
-Developing an artificially intelligent agent requires expertise in AI, machine learning, and software development, as well as access to suitable data and computational resources. It's also important to consider the ethical and practical implications of deploying AI agents in various applications.
+
+Developing an artificially intelligent agent requires expertise in AI, machine learning, and software development, as well as access to suitable data and computational resources. 
+
+{: .note }
+It's also important to consider the ethical and practical implications of deploying AI agents in various applications.
 
 
-### AI as a boon or bane
-In early 80s and 90s, there used to be questions like: "*Is science a boon or bane?*". The science - as we knew it then, has had its share of positives and negatives. We have coped and adjusted with time. 
-The question is same today, but it is severe.
-AI is science, and its impacts are going to be visible in human societies in few years. Are we going to accept what all it has to offer? Do we have freedom to be selective? AI is not going to impact us direcly. It is going to change few ideals and establishments that we have anchored on for a stable society - like human rights & democracy. The beliefs will change and new ideals will emerge. Although such things are not new - and has been happening since time immemorial, but AI will change the pace. With great momentum, there is little time to adjust and react - and this throws a complete new form of possibilities and properties.
+## AI: a boon or a bane
 
-Goodness or badness of the AI is not a topic to be discussed. The point of contention is that how dear we hold our existing beliefs and ideals, and how true they are to rightfully become the anchors of society. If AI makes us discard some prevalent evil system - that is good for society, but it can replace an existing best system with something new. And it has equal probability to happen. Now it's upto us to adapt to the changed world order and make a best out of it. AI will impact humans, but indirectly. It will affect our principles before touching us.
+In the early 80s and 90s, there used to be questions like: "*Is science a boon or a bane?*". The science - as we knew it then, has had its share of positives and negatives. We have coped and adjusted with time. Mostly we have chosen science over everything else, as it paved the way for progress.
 
-When judging the AI, it is very much important now that we assess ourselves first. A crash course on 'freedom from the known' is needed to the humans to grasp what AI is and how it is gaining momentum. We don't know our own learning process - and want to discard AI as just another science, fraught with errors. The important point is - do we know how errorneous we ourselves are?
+{: .highlight }
+As we grapple with the realities of AI, the question remains the same today - but it entails a severe problem.
+
+AI is science, and its impacts are going to be visible in human societies in few years. Are we going to accept what all it has to offer? Do we have freedom to be selective? AI is not going to impact us direcly. It is going to change few ideals and establishments that we have anchored on for a stable society - like human rights, sexuality & democracy. The beliefs and identities will change and new ideals will emerge. Although such things are not new - and has been happening since time immemorial, but AI will change the pace. With great momentum, there is little time to adjust and react - and this throws a complete new form of possibilities and properties.
+
+Goodness or badness of the AI is not a topic to be discussed. The point of contention is that how dear we hold our existing beliefs and ideals, and how true they are to rightfully become the anchors of society. If AI makes us discard some prevalent evil system - like corruption of beaureaucracy, that is a good thing for society. But, with the same enthusiasm it can replace an existing best system - like liberal democracy with something new, like autocratic AI agents. And they both are equally likely to happen. Now it's upto us to allow the change or to adapt to the changed world order and make the best out of it. 
+
+{: .warning}
+AI will impact humans, but indirectly. It will affect our principles & institutions, before touching us. We'll be impacted based on our relation with these principles and institutions.
+
+When judging the AI, it is very much important now that we assess ourselves first. A crash course on 'freedom from the known' is needed to the humans to grasp what AI is and how it is gaining momentum. We are outsourcing our decision making to the wisdoms of AI - for good or for the worst. The technology is feeding in our fantasies and desires - to aggravate them further.
+We don't know our own learning process - and want to discard AI as just another science, fraught with errors. The important point is - do we even know how errorneous we ourselves are?
 
 AI systems and use cases are already getting flooded in the market - few by innovators, and few by economic forces. Another form of push to AI comes from spectators. Because there is a hype, there is investment - leading to more and more spectacular leaps and advancements.
 
-If we want to train AI to do what humans want, we need to study humans.
+{: .important}
+If we want to train an AI to do what humans want, we need to study humans first.

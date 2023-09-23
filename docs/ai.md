@@ -13,12 +13,14 @@ To understand the AI, it is important to talk a bit on the terms above - Life & 
 
 **Life:** We all know that living beings on Earth are endowed with some intelligence to undergo their life processes and activities. They take actions based on their bodily needs and their body manufactures hormones, and processes electrical impulses. Thus, they ensure the survival of their species through evolution. The intelligence that drives this whole process is called life. We feel and we believe - and that shapes how we behave towards external triggers. Some beliefs are inherent, and some we formulate as we live. Our intelligence is responsible for our constant learning. We share those learnings through certain levels of communication and cooperation - which is itself a measure of intelligence.
 
-**Science:** Anything which is systematic and objective comes under science. All sorts of knowledge - true or untrue, if it has been derived by following a systematic procedure and if it is objective in nature, ie, can be imparted through teaching with zero variability - then this knowledge is scientific. There is a lot of doubt around the utility and contribution of science - mostly because its definition is not clear to the public, and partly because it has been used by the human greed to exploit resources. 
+**Science:** Anything which is systematic, structured, and objective comes under science. All sorts of knowledge - true or untrue, if it has been derived by following a systematic procedure and if it is objective in nature, ie, can be imparted through teaching with zero variability - then this knowledge is scientific. There is a lot of doubt around the utility and contribution of science - mostly because its definition is not clear to the public, and partly because it has been used by the human greed to exploit resources. 
 
 {: .note }
 Mathematics is science, counting system is science, language is science, psychology is science - as they are based on conventions or theories that are objective (or we have made them so).
 
-As soon as there is a subjectivity in a knowledge, it goes outside science, eg, spirituality - which is based on personal experience, and there is no way to reporduce the exact same result on two diffeernt persons (at least for now). The belief, in India, that if a cat crosses our way - it results in a bad journey, is not scientific and is, in fact, a superstition. Why? Because this fact is not reproducible. We are not downgrading it from kowledge. It remains a knowledge as somebody or a group of people (let's say 100 out of 1000) might have experienced this correlation. But, that does not make it a scientific fact. So is the case of personal experiences, beliefs and encounters. 
+As soon as there is a subjectivity in a knowledge, it goes outside science, eg, spirituality - which is based on personal experience, and there is no way to reporduce the exact same result on two diffeernt persons (at least for now). 
+
+The belief, in India, that if a cat crosses our way - it results in a bad journey, is not scientific and is, in fact, a superstition. Why? Because this fact is not reproducible. We are not downgrading it from kowledge. It remains a knowledge as somebody or a group of people (let's say 100 out of 1000) might have experienced this correlation. But, that does not make it a scientific fact. So is the case of personal experiences, beliefs and encounters. 
 
 So, the scope of science is ever increasing as we encapsulate & systemetize more and more of our *life* knowledge, and make it objective (worthy to be imparted with zero variability). Thus, we accept that the Science is always limited - purposefully, as it does not accept any subjectivity. Also, it need not be error free. The catch here is that - while relying on the objectivity of science, we are relying on our sense organs, which are not fool-proof.
 
@@ -59,11 +61,10 @@ Developing an artificially intelligent agent requires expertise in AI, machine l
 It's also important to consider the ethical and practical implications of deploying AI agents in various applications.
 
 
-## AI: a boon or a bane
+## AI - A Boon or A Bane
 
 In the early 80s and 90s, there used to be questions like: "*Is science a boon or a bane?*". The science - as we knew it then, has had its share of positives and negatives. We have coped and adjusted with time. Mostly we have chosen science over everything else, as it paved the way for progress.
 
-{: .highlight }
 As we grapple with the realities of AI, the question remains the same today - but it entails a severe problem.
 
 AI is science, and its impacts are going to be visible in human societies in few years. Are we going to accept what all it has to offer? Do we have freedom to be selective? AI is not going to impact us direcly. It is going to change few ideals and establishments that we have anchored on for a stable society - like human rights, sexuality & democracy. The beliefs and identities will change and new ideals will emerge. Although such things are not new - and has been happening since time immemorial, but AI will change the pace. With great momentum, there is little time to adjust and react - and this throws a complete new form of possibilities and properties.
@@ -78,5 +79,16 @@ We don't know our own learning process - and want to discard AI as just another 
 
 AI systems and use cases are already getting flooded in the market - few by innovators, and few by economic forces. Another form of push to AI comes from spectators. Because there is a hype, there is investment - leading to more and more spectacular leaps and advancements.
 
+**The feedback cycle**
+! [The AI and Humans]("/assets/images/cycle.svg")
+
 {: .important}
 If we want to train an AI to do what humans want, we need to study humans first.
+
+## AI and the fear
+
+
+
+## AI is farce, but useful
+
+There is a famous saying in the machine learning world - "All models are wrong but some are useful."

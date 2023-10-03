@@ -67,9 +67,9 @@ In the early 80s and 90s, there used to be questions like: "*Is science a boon o
 
 As we grapple with the realities of AI, the question remains the same today - but it entails a severe problem.
 
-AI is science, and its impacts are going to be visible in human societies in few years. Are we going to accept what all it has to offer? Do we have freedom to be selective? AI is not going to impact us direcly. It is going to change few ideals and establishments that we have anchored on for a stable society - like human rights, sexuality & democracy. The beliefs and identities will change and new ideals will emerge. Although such things are not new - and has been happening since time immemorial, but AI will change the pace. With great momentum, there is little time to adjust and react - and this throws a complete new form of possibilities and properties.
+AI is science, and its impacts are going to be visible in human societies in few years. Are we going to accept what all it has to offer? Do we have freedom to be selective? AI is not going to impact us directly. It is going to change few ideals and establishments that we have anchored on for a stable society - like human rights, sexuality & democracy. The beliefs and identities will change and new ideals will emerge. Although such things are not new - and has been happening since time immemorial, but AI will change the pace. With great momentum, there is little time to adjust and react - and this throws a complete new form of possibilities and properties.
 
-Goodness or badness of the AI is not a topic to be discussed. The point of contention is that how dear we hold our existing beliefs and ideals, and how true they are to rightfully become the anchors of society. If AI makes us discard some prevalent evil system - like corruption of beaureaucracy, that is a good thing for society. But, with the same enthusiasm it can replace an existing best system - like liberal democracy with something new, like autocratic AI agents. And they both are equally likely to happen. Now it's upto us to allow the change or to adapt to the changed world order and make the best out of it. 
+Goodness or badness of the AI is not a topic to be discussed. The point of contention is that how dear we hold our existing beliefs and ideals, and how true they are to rightfully become the anchors of society. If AI makes us discard some prevalent evil system - like corruption of bureaucracy, that is a good thing for society. But, with the same enthusiasm it can replace an existing best system - like liberal democracy with something new, like autocratic AI agents. And they both are equally likely to happen. Now it's upto us to allow the change or to adapt to the changed world order and make the best out of it. 
 
 {: .warning}
 AI will impact humans, but indirectly. It will affect our principles & institutions, before touching us. We'll be impacted based on our relation with these principles and institutions.
@@ -80,13 +80,16 @@ We don't know our own learning process - and want to discard AI as just another 
 AI systems and use cases are already getting flooded in the market - few by innovators, and few by economic forces. Another form of push to AI comes from spectators. Because there is a hype, there is investment - leading to more and more spectacular leaps and advancements.
 
 **The feedback cycle**
-! [The AI and Humans]("/assets/images/cycle.svg")
+! [The AI and Humans](/assets/images/cycle.png)
 
 {: .important}
 If we want to train an AI to do what humans want, we need to study humans first.
 
+
 ## AI and the fear
 
+Where reality ends, and where the AI starts - the boundariy is getting blurred.
+Humans are hooked while the machines are learning.
 
 
 ## AI is farce, but useful

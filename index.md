@@ -8,17 +8,17 @@ description: Homepage of blogs from Sanjay Azad
 
 # About Me 
 
-Hello, this is *Sanjay Azad* - a 29 years old, having expertise in Machine learning, Artificial Intelligence, Analytics & Signal processing.
+Hello, this is *Sanjay Azad* - a 29 years old, having expertise in Machine Learning, Artificial Intelligence, Analytics & Signal Processing.
 I completed my post-graduation (B.Tech + M.Tech) from [IIT Bombay] in 2016, from the [Department of Electrical Engineeering] with specialization in Communication and Signal processing.
 
-I have 7+ years of professional experience in Consulting, Data Science, Artificial Intelligence, and Application Development. I have worked on all the three verticals of MLOps - data engineering, model building & model deployment. I have done a good amount of research in explainable & responsible AI. Nowadays, exploring the capabilities of Generative AI, and Privacy Enhancing Technologies (PETs). Majorly, I have worked into finance, trading, & insurance sectors.
+I have 7+ years of professional experience in Data Science, ML Engineering, Consulting, and Application Development. I have worked on all the three verticals of MLOps - data engineering, model building & model deployment. I have done a good amount of research in explainable & responsible AI. Nowadays, exploring the capabilities of Generative AI, and Privacy Enhancing Technologies (PETs). Majorly, I have worked into finance, trading, & insurance sectors.
 
-I am passionate about nature and a vocal for sustainable development - in the sense that our resources have to be used skillfully and efficiently.
+I am passionate about nature, and a vocal for sustainable development - in the sense that our resources have to be used skillfully and efficiently.
 - Compassion, Humility, and Frugality - keeping and polishing these three jewels is the way to live.
 
 I live in India, and have visited several of its cities, and religious & historical sites. The holy city of [Varanasi] is where I have spent the whole of my childhood & schooling.
 
-I have appeared for the [UPSC] civil service exams as well - and the learning it provided in terms of understanding Indian polity, history, and society has been wholesome & fulfilling.
+I have appeared for the [UPSC] civil service exams as well - and the learning it provided in terms of understanding Indian polity, history, and society has been wholesome & fulfilling. I have a good knowledge around Indian philosophy from the IIT itself, and getting into Psychology nowadays. AI and Psychology are going to rule the future.
 
 {: .highlight }
 I am a student of science and a proud critical thinker and a seeker of knowledge.

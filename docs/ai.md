@@ -4,9 +4,9 @@ title: Artificial Intelligence
 nav_order: 2
 ---
 
-# Introduction
+# Artificial Intelligence
 
-Artificial Intelligence is an umbrella term. It includes different *scientific* ways through which we obtain an intelligent system outside the natural *life* systems.
+Artificial Intelligence is an umbrella term. It includes different *scientific* ways through which we obtain an intelligent system, outside the natural *life* systems.
 Here, we try to put in machines some sort of reasoning, decision making and cognition.
 
 To understand the AI, it is important to talk a bit on the terms above - Life & Scientific.
@@ -54,6 +54,8 @@ Below are few terms that need our further attention:
 - Computer Vision: Image processing to make system or agents capable of processing and interpreting visual information, allowing them to understand and interact with images and videos.
 - Neural Networks: Models designed to mimic brain functionality through neurons, also called deep learning models, such as convolutional neural networks (CNNs) for vision tasks and recurrent neural networks (RNNs) for sequential data, to build intelligent agents or systems.
 
+Self-learning agents are those that learn in real time - preparing the data for itself, training, and responding to the calls for action. 
+These are not common nowadays - as the multitasking require additional power. There is always some time delay between model training and using it for inferencing. But, this delay can be shortened by using multiple agents and by the techniques of transfer learning and foundation models.
 
 Developing an artificially intelligent agent requires expertise in AI, machine learning, and software development, as well as access to suitable data and computational resources. 
 
@@ -63,9 +65,11 @@ It's also important to consider the ethical and practical implications of deploy
 
 ## AI - A Boon or A Bane
 
-In the early 80s and 90s, there used to be questions like: "*Is science a boon or a bane?*". The science - as we knew it then, has had its share of positives and negatives. We have coped and adjusted with time. Mostly we have chosen science over everything else, as it paved the way for progress.
+In the early 80s and 90s, there used to be questions like: "*Is science a boon or a bane?*". The science - as we knew it then, has had its share of positives and negatives. We have coped and adjusted with time. Mostly we have chosen science over everything else, as it paved the way for economic progress and well being.
 
-As we grapple with the realities of AI, the question remains the same today - but it entails a severe problem.
+As we grapple with the realities of AI, the question remains the same today - but it entails a severe consequence.
+
+AI is proving to be helful in our quest to know more - model the natural life processes and give more power to decision making into the hands of humans. That is the sole reason for its growth and popularity. Through AI, we are feeding the right content to the individual as per their liking, deciding optimal routes while driving, approving or rejecting loan applications to say the least. We have language models and are seamless in automated translations. The goal is to automate some hectic manual tasks.
 
 AI is science, and its impacts are going to be visible in human societies in few years. Are we going to accept what all it has to offer? Do we have freedom to be selective? AI is not going to impact us directly. It is going to change few ideals and establishments that we have anchored on for a stable society - like human rights, sexuality & democracy. The beliefs and identities will change and new ideals will emerge. Although such things are not new - and has been happening since time immemorial, but AI will change the pace. With great momentum, there is little time to adjust and react - and this throws a complete new form of possibilities and properties.
 
@@ -80,15 +84,21 @@ We don't know our own learning process - and want to discard AI as just another 
 AI systems and use cases are already getting flooded in the market - few by innovators, and few by economic forces. Another form of push to AI comes from spectators. Because there is a hype, there is investment - leading to more and more spectacular leaps and advancements.
 
 **The feedback cycle**
-! [The AI and Humans](/assets/images/cycle.png)
+![The AI and Humans](/assets/images/cycle.png)
 
 {: .important}
 If we want to train an AI to do what humans want, we need to study humans first.
 
 
 ## AI and the fear
+When you ask the question: *Is AI going to be bad for Us?* - obviously you are being critical. But the real question is: do you know what you are asking?
+There is an aspect of *Us* vs *They* in your question. Us means humans, and they means AI agents of the future - that are going to be far more intelligent. But, how are you sure thaat we are separate? How do you know that we are not a simulated reality? What makes you apart from a simulated intelligence?
 
-Where reality ends, and where the AI starts - the boundariy is getting blurred.
+You might answer that we have conciousness, and will-power that sets us apart from the AI agents. But isn't our so called will power being hacked by these AI algorithms when we realise that the decisions made by the AI is better and efficient than what we could have come up with our own conciousness? When you allow to watch Youtube recommendation - you say the machine knows me more than I do, when you allow the gps to help you navigate - you say I trust science more than my cognition.
+
+So, the ruling of AI has already started. It is not about a future war between humanity and a bot army. It is about manipulation and your quest for knowledge.
+
+With advancements in the intelligent systems, the boundariy is getting blurred as to where the reality ends and where the AI starts.
 Humans are hooked while the machines are learning.
 
 

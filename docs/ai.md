@@ -44,13 +44,13 @@ Machine learning and deep learning (neural networks) are some of the ways to hav
 
 Below is a concise explanation of how those lesser-known other facets of AI exist:
 1. **Robotics:** It could be a combination of rule-based systems, sensors, along with language and visual processing, and a control system. The movement of arms is precise due to the control system, and sensors provide *interactivity*. It can incorporate deep learning to improve its capabilities.
-2. Control Systems: They include the mechanism through which mathematical calculations guide the process's speed and momentum. The famous PID controller allows for the automated driving of a line-follower bot. It captures the *precision* aspect of intelligence and makes informed decisions.
+2. **Control Systems:** They include the mechanism through which mathematical calculations guide the process's speed and momentum. The famous PID controller allows for the automated driving of a line-follower bot. It captures the *precision* aspect of intelligence and makes informed decisions.
 3. **Game engines:** Games have always been a part of computer systems, and the intelligence they derive comes from the fast computations and memory management of the computers. They can pre-compute the future possibilities while designing the current game flow. A famous example is the chess engine and the game of cards.
-4. Material technology: The inherent properties of different materials and nanoparticles contain an intelligence that is now opening doors for nanoAI agents. A particular example is the smart nanomaterials that find usage in biomedicine. Others include stealth technology to make things invisible and smart building materials.
+4. **Material technology:** The inherent properties of different materials and nanoparticles contain an intelligence that is now opening doors for nanoAI agents. A particular example is the smart nanomaterials that find usage in biomedicine. Others include stealth technology to make things invisible and smart building materials.
 
 
 Let's now quickly cover ML and DL, which are promising a good future for AI, primarily because of the exponential growth in data and computational capabilities in recent years.
-Here, we can't feed in all the possible decision rules and pattern matchings beforehand. However, it is allowed to pre-compute a definitive path for decision-making, called models. The machine has to make statistical inferences about the decision rules and patterns to create the models from the limited examples available (or data).
+In machine learning, we don't feed in all the possible decision rules and pattern matchings beforehand. However, it is allowed to pre-compute a definitive path for decision-making, called models. The machine has to make statistical inferences about the decision rules and patterns to create the models from the limited examples available (or data).
 
 
 The few scenarios that we make available to the machine are called training data.
@@ -66,9 +66,9 @@ There is a third type of learning called reinforcement learning, where we create
 
 
 Below are a few terms that need further attention:
-Natural Language Processing (NLP): process to make a system or agent that can understand and generate human language, enabling it to interact with users through text or speech.
-Computer Vision: image processing to make systems or agents capable of processing and interpreting visual information, allowing them to understand and interact with images and videos.
-Neural Networks: Models designed to mimic brain functionality through neurons, also called deep learning models, such as convolutional neural networks (CNNs) for vision tasks and recurrent neural networks (RNNs) for sequential data, are used to build intelligent agents or systems.
+- Natural Language Processing (NLP): process to make a system or agent that can understand and generate human language, enabling it to interact with users through text or speech.
+- Computer Vision: Image processing to make systems or agents capable of processing and interpreting visual information, allowing them to understand and interact with images and videos.
+- Neural Networks: Models designed to mimic brain functionality through neurons, also called deep learning models, such as convolutional neural networks (CNNs) for vision tasks and recurrent neural networks (RNNs) for sequential data.
 
 
 Self-learning agents are those that learn in real time - preparing the data for itself, training, and responding to the calls for action.
@@ -113,7 +113,7 @@ AI systems and use cases are already being flooded into the market - a few by in
 
 
 **The feedback cycle**
-![The AI and Humans](/assets/images/cycle.png)
+![The AI and Humans](../assets/images/cycle.png)
 
 
 {: .important}

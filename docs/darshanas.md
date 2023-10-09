@@ -19,15 +19,15 @@ So, the schools of thought that developed in the Indian subcontinent can be put 
 
 
 
-Among the non-Vedic (or unorthodox) schools are the ascetic traditions of Buddhism, Jainism, Charvaka, Lokayatas, and Ajivikas, to name a few.
-Charvaka people believed in a hedonistic way of living. They gave material pleasure and joyful living as the prime motives of humanity, and that pleasure seeking is the utmost thing that humans should do. The Ajivikas were just the opposite. They believed in *Niyati*, or fate, so much so that they shunned all sorts of human pursuits. Their faith in the workings of Uninverse was huge - they realised there is no point in doing anything and that everything will be taken care of by the determinism of life. For them, there is no place for willpower.
+Among the non-Vedic (or unorthodox) schools are the ascetic traditions of Buddhism, Jainism and Ajivikas, and materialism of Charvaka / Lokayatas, to name a few.
+Charvaka people believed in a hedonistic way of living. They asserted material pleasures and joyful living as the prime motives of humanity, and that pleasure seeking is the utmost thing that humans should do. The Ajivikas were just the opposite. They believed in *Niyati*, or fate, so much so that they shunned all sorts of human pursuits. Their faith in the workings of Universe was huge - they realised there is no point in doing anything and that everything will be taken care of by the determinism of life. For them, there is no place for will-power.
 
-
+Both of these 
 Both of these philosophies, although completely opposite, had one thing in common. Both knew that all we know and could ever know is very limited. So they forsake the idea of looking further. One started seeking all the pleasures that life has to offer, and the other left everything to Niyati. Eventually, both thoughts seemed to die down, as we don't find followers of such faith nowadays in public. Both did not believe in life after death.
 
 
-Buddhism and Jainism talk about the soul and rebirth, discarding external pleasures for the internal good. They prescribe Nirvana, or Kaivalya, to be the ultimate human goal - where the soul reaches its highest state. They do not believe in a creator sense of God. The knowledge is essence here, and they prescribe the path of rightful knowledge.
-
+<!-- Buddhism and Jainism talk about the soul and rebirth, discarding external pleasures for the internal good. They prescribe Nirvana, or Kaivalya, to be the ultimate human goal - where the soul reaches its highest state. They do not believe in a creator sense of God. The knowledge is essence here, and they prescribe the path of rightful knowledge. -->
+We'll discuss Buddhism and Jainism in the coming chapters.
 
 
 Coming on to the Vedic traditions or thoughts, we have six darshanas:

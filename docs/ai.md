@@ -141,3 +141,4 @@ Humans are hooked while the machines are learning.
 
 
 There is a famous saying in the machine learning world: "All models are wrong, but some are useful."
+When the universe is constantly striving for randomness, looking for patterns in a time-limited data seems a ridiculous task.

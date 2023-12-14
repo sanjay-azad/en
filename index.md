@@ -24,14 +24,14 @@ Passionate about nature, gardening and agriculture enthusiast, and vocal for sus
 I live in India and have visited several of its cities and religious and historical sites. The holy city of [Varanasi] is where I have spent the whole of my childhood and schooling.
 
 
-I have appeared for the [UPSC] civil service exams as well, and the learning it provided in terms of understanding Indian politics, history, and society has been wholesome and fulfilling to me. I have a good knowledge of Indian philosophy from the IIT itself, and nowadays, I am getting into psychology as I believe AI and psychology are going to rule the future.
+I have appeared for the [UPSC] civil service exams as well, and the learning it provided in terms of understanding Indian politics, history, and society has been wholesome and fulfilling to me. The humanities courses at IIT provided a good knowledge of Indian philosophy, and economy. I believe AI and mindfulness are going to play a bigger role in the future.
 
 
 {: .highlight }
 I am a student of science, a proud critical thinker, and a seeker of knowledge.
 
-
-The information, facts, and theories that I have acquired over my life are my assets. I am willing to disseminate them over here to a larger audience. The blogs are going to be from a diverse background, but mostly will have the following flavours:
+Coming from a background of science and spirituality, I think I should talk about their fallacies and utilities - and save people from getting polarised.
+The blogs are going to be from a diverse background, but mostly will have the following flavours:
 - Finance
 - Machine learning
 - Deep learning
@@ -41,7 +41,7 @@ The information, facts, and theories that I have acquired over my life are my as
 
 
 [IIT Bombay]: https://www.iitb.ac.in/
-[Department of Electrical Engineeering]: https://www.ee.iitb.ac.in/
+[Department of Electrical Engineering]: https://www.ee.iitb.ac.in/
 [MLOps]: https://ml-ops.org/
 [Generative AI]: https://www.nvidia.com/en-us/glossary/data-science/generative-ai/
 [PETs]: https://en.wikipedia.org/wiki/Privacy-enhancing_technologies

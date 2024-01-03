@@ -7,19 +7,23 @@ nav_order: 3
 
 # Indian Philosophy
 
-
 Indian culture and history have been a source of fascination for me. Its traditional and ancient knowledge systems woven into the fabric of mythology and religious philosophies (spirituality) are astounding. They can prove to be a disruptive technology for human cognition in today's world of chaos and suffering.
-
-
 
 Indian philosophy is broadly defined as the evolution of thoughts that have developed on the Indian subcontinent since the dawn of human intelligence. Humans have a primitive urge to know more, and this is reflected in their quest towards science and spirituality. In ancient terms, this used to be called *darshan* in Sanskrit or Hindi, meaning to look deeply. There are various schools of thought that developed, contesting and debating each other.
 
-
+Talking in chronology terms, we have Vedas as the earliest known sources of knowledge. They are so old that some people consider them to be of godly origin. Some call them to be self-manifested, but scientifically - they must have been compiled by great thinkers and sages over several of the centuries.
 So, the schools of thought that developed in the Indian subcontinent can be put into two buckets: vedic and non-vedic. Vedic thinkers are those who derive their ideas from the Vedas and supporting texts and interpretations. Non-Vedic are those schools of thought that don't have Vedas as authority.
 
+We have 4 Vedas: Rigveda, Samveda, Yajurveda, Atharvaveda
+The constituting documents of each of these vedas could be many books, not a single one - and those are classified into 4 groups:
+- Samhitas (mantras and benedictions)
+- Brahmanas (commentaries on and explanation of rituals, ceremonies and sacrifices - Yajnas)
+- Aranyakas (text on rituals, practices, ceremonies, sacrifices and symbolic-sacrifices)
+- Upanishads (texts discussing meditation, philosophy and spiritual knowledge)
 
+Vedas are *shruti-granth* ("what is heard"), distinguishing them from other religious texts like *Puranas*, which are called *smriti* ("what is remembered")
 
-Among the non-Vedic (or unorthodox) schools are the ascetic traditions of Buddhism, Jainism and Ajivikas, and materialism of Charvaka / Lokayatas, to name a few.
+Among the non-Vedic (or unorthodox) schools are the ascetic traditions of Buddhism, Jainism and Ajivikas, and the materialism of Charvaka / Lokayatas.
 Charvaka people believed in a hedonistic way of living. They asserted material pleasures and joyful living as the prime motives of humanity, and that pleasure seeking is the utmost thing that humans should do. The Ajivikas were just the opposite. They believed in *Niyati*, or fate, so much so that they shunned all sorts of human pursuits. Their faith in the workings of Universe was huge - they realised there is no point in doing anything and that everything will be taken care of by the determinism of life. For them, there is no place for will-power.
 
 Both of these thoughts sandwich western nihilism between them - one disregards any moral obligation and the other denies any fruitful pursuit.

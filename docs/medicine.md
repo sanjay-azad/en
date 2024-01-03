@@ -9,3 +9,23 @@ nav_order: 6
 Health is wealth - like literally.
 {: .fs-6 .fw-300 }
 
+Below are some useful home remedies: 
+
+
+Fungal infections around lips (makadi blisters)
+: Himalaya lip balm
+
+Constipation
+: Green chutney (with garlic, coriander and chili)
+: chew the food in mouth, take water after 1 hr of taking food
+
+
+Gas
+: Eating fibres - like salad, fruits before food
+: Don't take fruits or sweets after food
+
+
+Gut issues without gas
+: Curd
+: Sugarcane juice
+

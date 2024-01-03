@@ -52,7 +52,7 @@ In machine learning, we don't feed in all the possible decision rules and patter
 
 The few scenarios that we make available to the machine are called training data.
 If the training data are labelled from the real world (like a cat image, along with the label *Cat*), the learning that happens is called "supervised earning." The machine then figures out the labels for the unobserved test data by itself. Generally, we do three sets of tasks here: regression, classification, and ranking.
-Similarly, if we train it without the labels to make some associations among the given scenarios (or training data) - like segment or cluster, and do the same with any unobserved scenario, then it is called unsupervised learning. There are several different mathematical models or algorithms for these two types of learning.
+Secondly, if we train it without the labels to make some associations among the given scenarios (or training data) - like segment or cluster, and do the same with any unobserved scenario, then it is called unsupervised learning. There are several different mathematical models or algorithms for these two types of learning.
 
 Deep learning comes under machine learning only, and works on the premise that neural networks are good at approximating all sorts of functions. So, as long as the 'world' is described by a functions - DL would be able to crack the code. DL creates its own set of features to do the job, which makes it unique. It is computationally expensive.
 
@@ -80,15 +80,14 @@ Developing an artificially intelligent agent requires expertise in AI, machine l
 
 In the early 80s and 90s, there used to be questions like, "Is science a boon or a bane?". The science, as we knew it then, has had its share of positives and negatives. We have coped and adjusted with time. Mostly, we have chosen science over everything else, as it paved the way for economic progress and well-being.
 
-
 As we grapple with the realities of AI, the question remains the same, but it entails a severe consequence.
-
 
 AI is proving to be helpful in our quest to know more, model natural life processes, and give more power to decision-making in the hands of humans. That is the sole reason for its growth and popularity. Through AI, we are feeding the right content to the individual as per their liking, deciding optimal routes while driving, and approving or rejecting loan applications, to say the least. We have language models and seamless automated translations. The goal is to automate some hectic manual tasks.
 
 
 AI is science, and its impacts are going to be visible in human societies in a few years. Are we going to accept all it has to offer? Do we have the freedom to be selective? AI is not going to impact us directly. It is going to change a few ideals and establishments that we have anchored on for a stable society, like human rights, sexuality, and democracy. beliefs and identities will change, and new ideals will emerge. Although such things are not new and have been happening since time immemorial, AI will change the pace. With great momentum, there is little time to adjust and react, and this throws a complete new form of possibilities and properties.
 
+Some examples of disturbance created by AI are - creating digital assests like automated music, synthetic paintings, imaginary pictures, and video/voice transfer. It was already fuelling instagram and onlyfans to generate wealth by appeasing to the conscience of individuals. Nowadays there us a trend of AI girlfriends and companions to cater to the needs of a lonely generation.   
 
 The goodness or badness of AI is not a topic to be discussed. The point of contention is how dear we hold our existing beliefs and ideals and how true they are to rightfully become the anchors of society. If AI makes us discard some prevalent evil system, like the corruption of bureaucracy, that is a good thing for society. But, with the same enthusiasm, it can replace an existing best system, like liberal democracy, with something new, like autocratic AI agents. And they are both equally likely to happen. Now it's up to us to allow the change or adapt to the changed world order and make the best of it.
 
@@ -105,7 +104,7 @@ AI systems and use cases are already being flooded into the market - a few by in
 
 
 **The feedback cycle**
-![The AI and Humans](../assets/images/cycle.png)
+![The AI and Humans](/en/assets/images/cycle.png)
 
 
 {: .important}
@@ -115,16 +114,21 @@ If we want to train an AI to do what humans want, we need to study humans first.
 
 ## AI and the fear
 
-When you ask the question, *Is AI going to be bad for us?", obviously you are being critical. But the real question is: do you know what you are asking?
-There is an aspect of *Us* vs. *They* in your question. Us means humans, and they mean AI agents of the future that are going to be far more intelligent. But, how are you sure that we are separate? How do you know that we are not a simulated reality? What sets you apart from a simulated intelligence?
+When you ask the question, *Is AI going to be bad for us?*, obviously you are being critical. But there is no direct answer - it depends where you are coming from?
 
-You might answer that we have consciousness and willpower that set us apart from the AI agents. But isn't our so-called willpower being hacked by these AI algorithms when we realise that the decisions made by the AI are better and more efficient than what we could have come up with with our own consciousness? When you allow a YouTube recommendation, you say the machine knows me more than I do. When you allow the GPS to help you navigate, you say I trust science more than my cognition.
+There is an aspect of *Us* vs. *They* in your question. 'Us' means humans, and 'They' mean AI agents of the future that are going to be far more intelligent. If you are concerned about the job loss - it is inevitable, but we always find ways to augment the intelligence of the machines to save our time. Saving our fruitful time should be the goal of all automation.
 
+Can AI have its own agency and volition to make the world of its own? It's very far off assumption in the future. Not very likely and least of our concern at present.
+
+Our source of concern is what lies in between the above two scenarios. When we look at things that AI is able to do progressively, like doing arts and creative writing - we cannot help but wonder if we even understand its working? And if it is coming really out of a mathematical model, then how is nature different?
+How are we sure that we are not in a simulated reality? What sets you apart from a simulated intelligence?
+
+You might answer that we have consciousness and willpower that set us apart from the AI agents. But isn't our so-called willpower being hacked by these AI algorithms when we realise that the decisions made by the AI are better and more efficient than what we could have come up with our own consciousness? When you allow YouTube recommend you videos, you say that machine knows me more than I do. When you ask the GPS to help you navigate, you say I trust science more than my cognition.
 
 So, the age of AI has already started. It is not about a future war between humanity and a bot army. It is about manipulation and your quest for knowledge.
+AI as a science and maths is in itself not bad. It becomes bad when it gives an edge to a company or organisation and help build 'Company Intelligence'.
 
-
-With advancements in intelligent systems, the boundaries are getting blurred as to where reality ends and where AI starts.
+With advancements in intelligent systems, the boundaries are getting blurred as to where the reality ends and where AI starts.
 Humans are hooked while the machines are learning.
 
 

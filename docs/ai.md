@@ -6,40 +6,42 @@ nav_order: 2
 
 # Artificial Intelligence
 
+Through AI, we try to put into machines some sort of reasoning, decision-making, and cognition. Don't confuse it to be only robotics.
+{: .fs-6 .fw-300 }
 
-Artificial intelligence is an umbrella term. It includes different *scientific* ways through which we obtain an intelligent system, outside the natural *life* systems.
-Here, we try to put into machines some sort of reasoning, decision-making, and cognition.
+---
 
-
+Artificial intelligence is an umbrella term. It includes different *scientific* ways through which we obtain an intelligent system outside of the natural *life* systems.
 To understand AI, it is important to know the terms above: life and science.
 
 
-**Life:** We all know that living beings on Earth are endowed with some intelligence to undergo their life processes and activities. They take actions based on their bodily needs, and their body manufactures hormones and processes electrical impulses. Thus, they ensure the survival of their species through evolution. The intelligence that drives this whole process is called life. We feel and we believe, and that shapes how we behave towards external triggers. Some beliefs are inherent, and some we formulate as we live. Our intelligence is responsible for our constant learning. We share those learnings through certain levels of communication and cooperation, which is itself a measure of intelligence.
+**Life:** Living beings are endowed with some intelligence to undergo their life processes and activities. They take actions based on their bodily needs. Their body manufactures hormones and processes electrical impulses - thus ensuring the survival of their species through evolution. The intelligence that drives this whole process is called life. We feel and we believe, and that shapes how we behave towards external triggers. Some beliefs are inherent, and some we formulate as we live. Our intelligence is responsible for our constant learning. We share those learnings through certain levels of communication and cooperation, which is itself a measure of intelligence.
 
 
-**Science:** Knowledge - that is systematic, structured, and objective comes under the category of science. All sorts of knowledge, true or untrue - if it has been derived by following a systematic procedure and if it is objective in nature, i.e., can be imparted through teaching with zero variability, then this knowledge is scientific. It involves experimentation, covering - data gathering, processing, and inferencing. There is a lot of doubt around the utility and contribution of science, mostly because its definition is not clear to the public and partly because it has been used by humans to exploit resources.
+**Science:** Human comprehension is limited, so we make efforts to put our knowledge in a systematic, structured, and objective way - known as science. Knowledge is derived through our intelligence, the external environment, and past theories. All sorts of knowledge, true or untrue - if it has been derived by following a systematic procedure and if it is objective in nature, i.e., can be imparted through teaching with zero variability - is scientific. It involves experimentation, covering, data gathering, processing, and inferencing. People doubt the utility and contribution of science, as it is error-prone and has been used by humans to exploit resources.
 
 
 {: .note }
 Mathematics is science, counting systems are science, language is science, and psychology is science, as they are based on conventions or theories that are objective (or we have made them so).
 
 
-As soon as there is subjectivity in knowledge, it goes outside of science, e.g., spirituality, which is based on personal experience, and there is no way to replicate the exact same result on two different people (at least for now).
+As soon as there is subjectivity in knowledge based on personal experience, it goes outside of science, e.g., bodily intelligence & spirituality. There is no way to replicate the exact same result on two different people (at least for now).
 
-
-So, the scope of science is ever-increasing as we encapsulate and systematise more and more of our life knowledge and make it objective (worthy of being imparted with zero variability). Thus, we accept that science is always limited - purposefully, as it does not accept any subjectivity. Also, it need not be error-free. The catch here is that, while relying on the objectivity of science, we are relying on our sense organs, which are not foolproof.
+So, the scope of science is ever-increasing as we encapsulate and systematize more and more of our life knowledge and make it objective. Also, it need not be error-free. The catch here is that, while relying on the objectivity of science, we are relying on our sense organs, which are not foolproof.
 
 
 {: .highlight }
-There is intelligence in both of them - life and science. It's just that science is more structured, definite, and limited. There are a few measures of intelligence: understanding patterns, decision-making, language understanding, willpower, and emotions.
-Emotions and belief-framing are the least understood aspects of intelligence, as per science, as there is a lot of variability.
+There is intelligence in both of them - life and science. It's just that science is more structured, definite, and limited. 
 
+There are a few measures of intelligence: understanding patterns, decision-making, language understanding, willpower, and emotions. Emotions and belief-framing are the least understood aspects of intelligence, as per science, as there is a lot of variability.
+
+---
 
 Artificially intelligent agents are those scientific systems that cross certain thresholds at the above-mentioned measures of intelligence (in human perception).
 Machine learning and deep learning (neural networks) are some of the ways to have an AI agent. Others include robotics, control systems, game engines, material technology, etc.
 
 
-Below is a concise explanation of how those lesser-known other facets of AI exist:
+Below is a concise explanation of how those lesser-known facets of AI exist:
 1. **Robotics:** It could be a combination of rule-based systems, sensors, along with language and visual processing, and a control system. The movement of arms is precise due to the control system, and sensors provide *interactivity*. It can incorporate deep learning to improve its capabilities.
 2. **Control Systems:** They include the mechanism through which mathematical calculations guide the process's speed and momentum. The famous PID controller allows for the automated driving of a line-follower bot. It captures the *precision* aspect of intelligence and makes informed decisions.
 3. **Game engines:** Games have always been a part of computer systems, and the intelligence they derive comes from the fast computations and memory management of the computers. They can pre-compute the future possibilities while designing the current game flow. A famous example is the chess engine and the game of cards.
@@ -73,7 +75,7 @@ These are not common nowadays, as multitasking requires additional power. There 
 {: .note }
 Developing an artificially intelligent agent requires expertise in AI, machine learning, and software development, as well as access to suitable data and computational resources. It's also important to consider the ethical and practical implications of deploying AI agents in various applications.
 
-
+---
 
 ## AI: A Boon or a Bane
 
@@ -82,7 +84,7 @@ In the early 80s and 90s, there used to be questions like, "Is science a boon or
 
 As we grapple with the realities of AI, the question remains the same, but it entails a severe consequence.
 
-AI is proving to be helpful in our quest to know more, model natural life processes, and give more power to decision-making in the hands of humans. That is the sole reason for its growth and popularity. Through AI, we are feeding the right content to the individual as per their liking, deciding optimal routes while driving, and approving or rejecting loan applications, to say the least. We have language models and seamless automated translations. The goal is to automate some hectic manual tasks.
+AI is proving to be helpful in our quest to know more, model natural life processes, and give more power to decision-making in the hands of humans. That is the sole reason for its growth and popularity. Through AI, we are feeding the right content to the individual as per their liking, deciding optimal routes while driving, and approving or rejecting loan applications, to say the least. We have language models and seamless automated language translations. The goal is to automate the hectic, repetitive manual tasks.
 
 
 AI is science, and its impacts are going to be visible in human societies in a few years. Are we going to accept all it has to offer? Do we have the freedom to be selective? AI is not going to impact us directly. It is going to change a few ideals and establishments that we have anchored on for a stable society, like human rights, sexuality, and democracy. beliefs and identities will change, and new ideals will emerge. Although such things are not new and have been happening since time immemorial, AI will change the pace. With great momentum, there is little time to adjust and react, and this throws a complete new form of possibilities and properties.

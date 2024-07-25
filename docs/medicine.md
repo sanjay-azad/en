@@ -11,12 +11,11 @@ Health is wealth - like literally.
 
 Below are some useful home remedies: 
 
-
-Fungal infections around lips (makadi blisters)
+Fungal infections around lips
 : Himalaya lip balm
 
 Constipation
-: Green chutney (with garlic, coriander and chili)
+: Green chutney (with garlic, coriander and chilli)
 : chew the food in mouth, take water after 1 hr of taking food
 
 

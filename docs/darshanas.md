@@ -7,7 +7,12 @@ nav_order: 3
 
 # Indian Philosophy
 
-Indian culture and history have been a source of fascination for me. Its traditional and ancient knowledge systems woven into the fabric of mythology and religious philosophies (spirituality) are astounding. They can prove to be a disruptive technology for human cognition in today's world of chaos and suffering.
+They can prove to be a disruptive technology for human cognition in today's world of chaos and suffering.
+{: .fs-6 .fw-300 }
+
+---
+
+Indian culture and history have been a source of fascination for me. Its traditional and ancient knowledge systems woven into the fabric of mythology and religious philosophies (spirituality) are astounding. 
 
 Indian philosophy is broadly defined as the evolution of thoughts that have developed on the Indian subcontinent since the dawn of human intelligence. Humans have a primitive urge to know more, and this is reflected in their quest towards science and spirituality. In ancient terms, this used to be called *darshan* in Sanskrit or Hindi, meaning to look deeply. There are various schools of thought that developed, contesting and debating each other.
 

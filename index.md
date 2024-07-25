@@ -6,10 +6,14 @@ description: Homepage of blogs from Sanjay Azad
 
 ---
 
-# About Me 
-
+# To begin, begin!
+{: .fs-9 }
 
 Hello, this is Sanjay Azad.
+{: .fs-6 .fw-300 }
+
+---
+
 I am 29 years old and have expertise in machine learning, artificial intelligence, analytics, and signal processing.
 I completed my post-graduation (B.Tech. + M.Tech.) from [IIT Bombay] in 2016 from the [Department of Electrical Engineering] with a specialisation in communication and signal processing.
 
@@ -30,8 +34,8 @@ I have appeared for the [UPSC] civil service exams as well, and the learning it 
 {: .highlight }
 I am a student of science, a proud critical thinker, and a seeker of knowledge.
 
-Coming from a background of science and spirituality, I think I should talk about their fallacies and utilities - and save people from getting polarised.
-The blogs are going to be from a diverse background, but mostly will have the following flavours:
+<!-- Coming from a background of science and spirituality, I think I should talk about their fallacies and utilities - and save people from getting polarised. -->
+The blogs here are going to be from a diverse background, but they will mostly have the following flavors:
 - Finance
 - Machine learning
 - Deep learning

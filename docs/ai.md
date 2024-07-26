@@ -18,12 +18,11 @@ To understand AI, it is important to know the terms above: life and science.
 **Life:** Living beings are endowed with some intelligence to undergo their life processes and activities. They take actions based on their bodily needs. Their body manufactures hormones and processes electrical impulses - thus ensuring the survival of their species through evolution. The intelligence that drives this whole process is called life. We feel and we believe, and that shapes how we behave towards external triggers. Some beliefs are inherent, and some we formulate as we live. Our intelligence is responsible for our constant learning. We share those learnings through certain levels of communication and cooperation, which is itself a measure of intelligence.
 
 
-**Science:** Human comprehension is limited, so we make efforts to put our knowledge in a systematic, structured, and objective way - known as science. Knowledge is derived through our intelligence, the external environment, and past theories. All sorts of knowledge, true or untrue - if it has been derived by following a systematic procedure and if it is objective in nature, i.e., can be imparted through teaching with zero variability - is scientific. It involves experimentation, covering, data gathering, processing, and inferencing. People doubt the utility and contribution of science, as it is error-prone and has been used by humans to exploit resources.
+**Science:** Human comprehension is limited, so we make efforts to put our knowledge in a systematic, structured, and objective way - known as science. Knowledge is derived through our intelligence, the external environment, and past theories. All sorts of knowledge, true or untrue - if it has been derived by following a systematic procedure and if it is objective in nature, i.e., can be imparted through teaching with zero variability - is scientific. It involves experimentation, covering - data gathering, processing, and inferencing. People doubt the utility and contribution of science, as it is error-prone and has been used by humans to exploit resources.
 
 
 {: .note }
-Mathematics is science, counting systems are science, language is science, and psychology is science, as they are based on conventions or theories that are objective (or we have made them so).
-
+Mathematics is science, counting systems are science, language is science, and psychology is science, as they are based on conventions or theories that are objective and derived through experimentation and research.
 
 As soon as there is subjectivity in knowledge based on personal experience, it goes outside of science, e.g., bodily intelligence & spirituality. There is no way to replicate the exact same result on two different people (at least for now).
 
@@ -33,7 +32,7 @@ So, the scope of science is ever-increasing as we encapsulate and systematize mo
 {: .highlight }
 There is intelligence in both of them - life and science. It's just that science is more structured, definite, and limited. 
 
-There are a few measures of intelligence: understanding patterns, decision-making, language understanding, willpower, and emotions. Emotions and belief-framing are the least understood aspects of intelligence, as per science, as there is a lot of variability.
+There are a few measures of intelligence - understanding patterns, decision-making, language understanding, willpower, and emotions. Emotions and belief-framing are the least understood aspects of intelligence, as per science, as there is a lot of variability.
 
 ---
 
@@ -43,18 +42,18 @@ Machine learning and deep learning (neural networks) are some of the ways to hav
 
 Below is a concise explanation of how those lesser-known facets of AI exist:
 1. **Robotics:** It could be a combination of rule-based systems, sensors, along with language and visual processing, and a control system. The movement of arms is precise due to the control system, and sensors provide *interactivity*. It can incorporate deep learning to improve its capabilities.
-2. **Control Systems:** They include the mechanism through which mathematical calculations guide the process's speed and momentum. The famous PID controller allows for the automated driving of a line-follower bot. It captures the *precision* aspect of intelligence and makes informed decisions.
-3. **Game engines:** Games have always been a part of computer systems, and the intelligence they derive comes from the fast computations and memory management of the computers. They can pre-compute the future possibilities while designing the current game flow. A famous example is the chess engine and the game of cards.
-4. **Material technology:** The inherent properties of different materials and nanoparticles contain an intelligence that is now opening doors for nanoAI agents. A particular example is the smart nanomaterials that find usage in biomedicine. Others include stealth technology to make things invisible and smart building materials.
+2. **Control Systems:** They include the mechanism through which mathematical calculations guide the process's speed and momentum. The famous PID controller allows for the automated driving of a line-follower bot. It captures the *precision* aspect of intelligence and makes informed decisions. Again, ML and DL can aid to the information processing.
+3. **Game engines:** Games have always been a part of computer systems, and the intelligence they derive comes from the fast computations and memory management of the computers. They can pre-compute the future possibilities while designing the current game flow. A famous example is the chess engine and the game of cards where it seems to play intelligent moves.
+4. **Material technology:** The inherent properties of different materials and nanoparticles contain an intelligence that is now opening doors for nanoAI agents. A particular example is the smart nanomaterials that find usage in biomedicine, allowing precise medication on targetted region. Others include stealth technology, and smart building materials.
 
 
 Let's now quickly cover ML and DL, which are promising a good future for AI, primarily because of the exponential growth in data and computational capabilities in recent years.
-In machine learning, we don't feed in all the possible decision rules and pattern matchings beforehand. However, it is allowed to pre-compute a definitive path for decision-making, called models. The machine has to make statistical inferences about the decision rules and patterns to create the models from the limited examples available (or data).
 
+In machine learning, we create models capturing the input-output relations, possible decision rules and patterns in a process without explicitly hardcoding them. It is allowed to pre-compute a definitive path for decision-making, called models using the limited real-world examples available (data).
 
-The few scenarios that we make available to the machine are called training data.
-If the training data are labelled from the real world (like a cat image, along with the label *Cat*), the learning that happens is called "supervised earning." The machine then figures out the labels for the unobserved test data by itself. Generally, we do three sets of tasks here: regression, classification, and ranking.
-Secondly, if we train it without the labels to make some associations among the given scenarios (or training data) - like segment or cluster, and do the same with any unobserved scenario, then it is called unsupervised learning. There are several different mathematical models or algorithms for these two types of learning.
+The few scenarios from the process that we make available to the machine are called training data.
+If the training data is labelled from the real world (like a cat image, along with the label *Cat*), the learning that happens is called "supervised learning." The machine then figures out the labels for the unobserved test data by itself. Generally, we do three sets of tasks here: regression, classification, and ranking.
+Secondly, if we train the model without the labels to make some associations among the given scenarios (or training data) - like segmentation or clustering, and do the same with any unobserved scenario, then it is called unsupervised learning. There are several different mathematical models or algorithms for these two types of learning.
 
 Deep learning comes under machine learning only, and works on the premise that neural networks are good at approximating all sorts of functions. So, as long as the 'world' is described by a functions - DL would be able to crack the code. DL creates its own set of features to do the job, which makes it unique. It is computationally expensive.
 
@@ -63,7 +62,7 @@ There is a third type of learning called reinforcement learning, where we create
 
 
 Below are a few terms that need further attention:
-- Natural Language Processing (NLP): process to make a system or agent that can understand and generate human language, enabling it to interact with users through text or speech.
+- Natural Language Processing (NLP): Process to make a system or agent that can understand and generate human language, enabling it to interact with users through text or speech.
 - Computer Vision: Image processing to make systems or agents capable of processing and interpreting visual information, allowing them to understand and interact with images and videos.
 - Neural Networks: Models designed to mimic brain functionality through neurons, also called deep learning models, such as convolutional neural networks (CNNs) for vision tasks and recurrent neural networks (RNNs) for sequential data.
 

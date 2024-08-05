@@ -49,3 +49,16 @@ Coming on to the Vedic traditions or thoughts, we have six darshanas:
 
 
 The whole discussion among these thoughts revolves around the nature of reality, sources of knowledge, and the theory of creation. There are debates over dualism and non-dualism as to what true reality is composed of. Even though they all obtain their arguments from the Vedas, they differ in so many ways and yet exhibit an extreme level of intelligence and thought process. These are refined over several centuries of thinking.
+
+---
+
+Why such questions are of significance for centuries?
+
+- what is the true nature of Reality?
+It dawns to us that there is something beyond our knowledge and understanding, when we see the change and the momentary and relativistic nature of our experiences. Falseness is known only in the hindsight.
+
+- what should we consider true source of knowledge?
+The discussion about truth lands us on this question as to what should be considered the valid source of knowledge, as even our senses seem to fool us and cover the wisdom.
+
+- how do we understand the creation process of Universe, and space beyond?
+This question becomes relevant when we understand the past in terms of causality. Things are happening in sequence, so something must be the root of everything, and that can allow us see the Reality - uncluttered.

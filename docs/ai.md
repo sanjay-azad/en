@@ -48,8 +48,12 @@ Below is a concise explanation of how those lesser-known facets of AI exist:
 
 
 Let's now quickly cover ML and DL, which are promising a good future for AI, primarily because of the exponential growth in data and computational capabilities in recent years.
+Machine learning is all about making predictions and classifications. Deep learning is a subset of machine learning.
 
-In machine learning, we create models capturing the input-output relations, possible decision rules and patterns in a process without explicitly hardcoding them. It is allowed to pre-compute a definitive path for decision-making, called models using the limited real-world examples available (data).
+{: .new }
+Generative AI is where machines *generate* texts, images & videos, and is a subset of deep learning only.
+
+In machine learning, we create models capturing the input-output relations, possible decision rules and patterns in a *process* without explicitly hardcoding them. It is allowed to pre-compute a definitive path for decision-making, called models using the limited real-world examples available (data).
 
 The few scenarios from the process that we make available to the machine are called training data.
 If the training data is labelled from the real world (like a cat image, along with the label *Cat*), the learning that happens is called "supervised learning." The machine then figures out the labels for the unobserved test data by itself. Generally, we do three sets of tasks here: regression, classification, and ranking.
@@ -57,7 +61,6 @@ Secondly, if we train the model without the labels to make some associations amo
 
 Deep learning comes under machine learning only, and works on the premise that neural networks are good at approximating all sorts of functions. So, as long as the 'world' is described by a functions - DL would be able to crack the code. DL creates its own set of features to do the job, which makes it unique. It is computationally expensive.
 
-{: .new }
 There is a third type of learning called reinforcement learning, where we create an agent that learns by interacting with an environment and receiving rewards or penalties based on its actions.
 
 
@@ -85,8 +88,7 @@ As we grapple with the realities of AI, the question remains the same, but it en
 
 AI is proving to be helpful in our quest to know more, model natural life processes, and give more power to decision-making in the hands of humans. That is the sole reason for its growth and popularity. Through AI, we are feeding the right content to the individual as per their liking, deciding optimal routes while driving, and approving or rejecting loan applications, to say the least. We have language models and seamless automated language translations. The goal is to automate the hectic, repetitive manual tasks.
 
-
-AI is science, and its impacts are going to be visible in human societies in a few years. Are we going to accept all it has to offer? Do we have the freedom to be selective? AI is not going to impact us directly. It is going to change a few ideals and establishments that we have anchored on for a stable society, like human rights, sexuality, and democracy. beliefs and identities will change, and new ideals will emerge. Although such things are not new and have been happening since time immemorial, AI will change the pace. With great momentum, there is little time to adjust and react, and this throws a complete new form of possibilities and properties.
+AI is science, and its impacts are going to be visible in human societies in a few years. Are we going to accept all it has to offer? Do we have the freedom to be selective? AI is not going to impact us directly. It is going to change a few ideals and establishments that we have anchored on for a stable society, like human rights, sexuality, and democracy. Beliefs and identities will change, and new ideals will emerge. Although such things are not new and have been happening since time immemorial, AI will change the pace. With great momentum, there is little time to adjust and react, and this throws a complete new form of possibilities and properties.
 
 Some examples of disturbance created by AI are - creating digital assests like automated music, synthetic paintings, imaginary pictures, and video/voice transfer. It was already fuelling instagram and onlyfans to generate wealth by appeasing to the conscience of individuals. Nowadays there us a trend of AI girlfriends and companions to cater to the needs of a lonely generation.   
 
@@ -98,10 +100,10 @@ AI will impact humans, but indirectly. It will affect our principles and institu
 
 
 When judging the AI, it is very important that we assess ourselves first. A crash course on 'freedom from the known' is needed for humans to grasp what AI is and how it is gaining momentum. We are outsourcing our decision-making to the wisdom of AI, for good or for bad. The technology is feeding into our fantasies and desires - to aggravate them further.
-We don't know our own learning process and want to discard AI as just another science fraught with errors. The important point is: do we even know how errorneous we ourselves are?
+We don't know our own learning process and want to discard AI as just another science; fraught with errors. The important point is: do we even know how errorneous we ourselves are?
 
 
-AI systems and use cases are already being flooded into the market - a few by innovators and a few by economic forces. Another form of push for AI comes from spectators. Because there is hype, there is investment, leading to more and more spectacular leaps and advancements.
+AI systems and use cases are already being flooded into the market - a few by innovators and a few by market forces & economic demands. Another form of push for AI comes from spectators. Because there is hype, there is investment, leading to more and more spectacular leaps and advancements.
 
 
 **The feedback cycle**
@@ -127,7 +129,7 @@ How are we sure that we are not in a simulated reality? What sets you apart from
 You might answer that we have consciousness and willpower that set us apart from the AI agents. But isn't our so-called willpower being hacked by these AI algorithms when we realise that the decisions made by the AI are better and more efficient than what we could have come up with our own consciousness? When you allow YouTube recommend you videos, you say that machine knows me more than I do. When you ask the GPS to help you navigate, you say I trust science more than my cognition.
 
 So, the age of AI has already started. It is not about a future war between humanity and a bot army. It is about manipulation and your quest for knowledge.
-AI as a science and maths is in itself not bad. It becomes bad when it gives an edge to a company or organisation and help build 'Company Intelligence'.
+AI as a science and maths is in itself not bad. It becomes bad when it gives an edge to a company or organisation and helps build 'Company Intelligence'.
 
 With advancements in intelligent systems, the boundaries are getting blurred as to where the reality ends and where AI starts.
 Humans are hooked while the machines are learning.
@@ -137,4 +139,6 @@ Humans are hooked while the machines are learning.
 ## AI is farce, but useful
 
 There is a famous saying in the machine learning world: "All models are wrong, but some are useful."
-When the universe is constantly striving for randomness, looking for patterns in a time-limited data seems a ridiculous task.
+It means that all we do in AI is statistically estimate the pattern. This estimation might be far from accurate, but what matters is how good it is in terms of human perception. Because our perception is still far from the truth, it doesn't matter if the AI is making the same mistake in guessing the underlying principle.
+
+When the universe is constantly striving for randomness, looking for patterns in time-limited data seems like a ridiculous task.
